@@ -1,10 +1,16 @@
 # smart_alarm
-An alarm clock with background music and morning exercises with an exercise recognition system.
 
-Project: Smart Alarm
-Flutter, TensorFlow Lite, background audio, sensors_plus
+A new Flutter project.
 
-- Mobile app that functions as an alarm clock with background music.
-- Includes a morning workout routine with real-time exercise recognition using motion detection.
-- Runs in the background, plays music, and tracks user’s movement for selected exercises.
-- Built with Flutter; uses platform-specific APIs for alarms and sensors.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
